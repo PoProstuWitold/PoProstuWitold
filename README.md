@@ -1,5 +1,5 @@
 # About me
-My name is Witold I'm 18yo and I'm from Poland. I like coding in NodeJS and TypeScript. My other hobbies include video games, anime, skiing and history. I also like dogs and animals in general.
+My name is Witold I'm 19yo and I'm from Poland. I like coding in NodeJS and TypeScript. My other hobbies include video games, anime, skiing and history. I also like dogs and animals in general.
 
 ### My skills:
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
