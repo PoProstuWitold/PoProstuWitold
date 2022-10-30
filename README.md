@@ -22,7 +22,6 @@ I also like video games, anime, skiing, history, dogs and other animals.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 
 
-
 ### Favorite operating systems
 ![Windows](https://camo.githubusercontent.com/822807a1e77754e8f7eda38b7ca7af442d261b38e332d4ce5b3154526221c379/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d57696e646f777326636f6c6f723d303037384436266c6f676f3d57696e646f7773266c6f676f436f6c6f723d464646464646266c6162656c3d)&nbsp;
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)&nbsp;
