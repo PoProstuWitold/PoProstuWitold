@@ -33,4 +33,4 @@ I also like video games, anime, skiing, history, dogs and other animals.
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PoProstuWitold&count_private=true&show_icons=true&title_color=3C873A&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PoProstuWitold&count_private=true&show_icons=true&theme=transparent" />
