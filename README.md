@@ -1,5 +1,5 @@
 # About me
-My name is Witold I'm 19yo and I'm from Poland. I like coding in NodeJS and TypeScript.
+Hi, my name is Witold I'm 19yo and I'm from Poland. I like coding in NodeJS and TypeScript.
 I also like video games, anime, skiing, history, dogs and other animals.
 
 ### Languages
