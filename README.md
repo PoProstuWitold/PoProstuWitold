@@ -31,10 +31,8 @@ I daily use WSL2 with Arch Linux distro, Beekeeper Studio, Insomnia and Visual S
 
 ### Currently learning
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=orange)&nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb)
 
 ## Stats
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=PoProstuWitold&count_private=true&show_icons=true&theme=transparent" />
