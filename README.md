@@ -1,7 +1,6 @@
 # Hello, I'm Witold Zawada
 I'm 19yo and I'm Polish. I like coding in Node.js and TypeScript.
 I also like video games, anime, skiing, history, folk rock music, dogs and other animals.
-I daily use WSL2 with Arch Linux distro, Beekeeper Studio, Insomnia and Visual Studio Code.
 
 ## Technologies
 ### Languages & Runtimes
