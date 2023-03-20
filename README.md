@@ -1,16 +1,45 @@
-# Hello, I'm Witold Zawada
-I'm 19yo and I'm Polish. I like coding in Node.js and TypeScript.
-I also like video games, anime, skiing, history, folk rock music, dogs and other animals.
+<p align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=PoProstuWitold&data=followers,repositories,stars,commits&theme=darkmode">
+</p>
 
-## Technologies
+<p align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&size=26&duration=8000repeat=false&pause=3000&color=38BDAE&center=true&vCenter=true&multiline=true&width=1000&lines=Hello%2C+I'm+Witold+Zawada.+Self-taugh+TypeScript+Developer)](https://git.io/typing-svg)
+
+</p>
+<hr />
+
+<details>
+ <summary>
+   
+  ## 💫 About me
+  
+  </summary> 
+  
+  Hello, I'm Witold Zawada. I'm a 19-year-old self-taugh developer from Poland with a passion for coding in **Node.js** and **TypeScript**. In my spare time, I enjoy coding side projects, indulging in video games, anime, skiing, history, folk rock music, as well as spending quality time with my dog Rafi.
+  
+</details>
+  
+
+
+</details>  
+
+<details>
+ <summary>
+   
+   ## 💻 Technologies
+  
+  </summary> 
+
 ### Languages & Runtimes
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 
 ### Frameworks & Libraries
 ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -29,7 +58,21 @@ I also like video games, anime, skiing, history, folk rock music, dogs and other
 ### Others
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)&nbsp;
+  
+</details>
 
 
-## Stats
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PoProstuWitold&count_private=true&show_icons=true&theme=transparent" />
+<details>
+ <summary>
+   
+  ## 📊 GitHub Stats:
+  
+  </summary> 
+
+![](https://github-readme-stats.vercel.app/api?username=PoProstuWitold&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=PoProstuWitold&theme=tokyonight&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PoProstuWitold&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  
+</details>
