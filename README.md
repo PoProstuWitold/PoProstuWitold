@@ -1,12 +1,8 @@
 <p align="center">
   <img src="https://github-widgetbox.vercel.app/api/profile?username=PoProstuWitold&data=followers,repositories,stars,commits&theme=darkmode">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&size=36&duration=2000&pause=500&color=38BDAE&center=true&vCenter=true&multiline=true&repeat=false&width=620&height=100&lines=Hello%2C+I'm+Witold+Zawada.;Node.js+TypeScript+developer" alt="Typing SVG" /></a>
 </p>
 
-<p align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&size=26&duration=8000repeat=false&pause=3000&color=38BDAE&center=true&vCenter=true&multiline=true&width=1000&lines=Hello%2C+I'm+Witold+Zawada.+Self-taugh+TypeScript+Developer)](https://git.io/typing-svg)
-
-</p>
 <hr />
 
 <details>
@@ -16,7 +12,7 @@
   
   </summary> 
   
-  Hello, I'm Witold Zawada. I'm a 19-year-old self-taugh developer from Poland with a passion for coding in **Node.js** and **TypeScript**. In my spare time, I enjoy coding side projects, indulging in video games, anime, skiing, history, folk rock music, as well as spending quality time with my dog Rafi.
+  Hello, I'm Witold Zawada. I'm a 20-year-old self-taugh developer from Poland with a passion for coding in **Node.js** and **TypeScript**. In my spare time, I enjoy coding side projects, indulging in video games, skiing, history, folk rock music, as well as playing with my dog and working on my homeserver.
   
 </details>
   
