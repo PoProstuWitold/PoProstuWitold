@@ -12,7 +12,7 @@
   
   </summary> 
   
-  Hello, I'm Witold Zawada. I'm a 21yo self-taugh developer from Poland with a passion for coding in **[TypeScript](https://www.typescriptlang.org/)** and **[Go](https://go.dev/)**. In my spare time, I enjoy coding side projects, indulging in video games, skiing, history, folk rock music, as well as playing with my pets and working on my [homeserver](https://github.com/PoProstuWitold/homeserver). I'm currently learning **[Go](https://go.dev/)** and exploring **[Bun](https://bun.sh/)** JavaScript runtime.
+  Hello, I'm Witold Zawada. I'm a 21yo self-taugh developer from Poland with a passion for coding in **[TypeScript](https://www.typescriptlang.org/)** and **[Go](https://go.dev/)**. In my spare time, I enjoy coding side projects, indulging in video games, skiing, history, folk rock music, as well as playing with my pets and working on my [homeserver](https://github.com/PoProstuWitold/homeserver). I'm currently learning **[Go](https://go.dev/)** and exploring new JavaScript runtimes - Deno and Bun.
   
 </details>
   
