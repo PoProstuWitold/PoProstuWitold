@@ -12,7 +12,9 @@
   
   </summary> 
   
-  Hello, I'm Witold Zawada. I'm a 21yo self-taugh developer from Poland with a passion for coding in **[TypeScript](https://www.typescriptlang.org/)** and **[Go](https://go.dev/)**. In my spare time, I enjoy coding side projects, indulging in video games, skiing, history, folk rock music, as well as playing with my pets and working on my [homeserver](https://github.com/PoProstuWitold/homeserver). I'm currently learning **[Go](https://go.dev/)** and exploring new JavaScript runtimes - Deno and Bun.
+I'm Witold Zawada. Self-taught software developer from Poland. I'm constantly expanding my skills in both backend and frontend development to understand both domains and create complete, secure, and user-friendly applications using technologies such as TypeScript, React, Go and PostgreSQL. In my free time I like to do so-called "selfhosting" and learn how do enterprise servers operate.
+
+In addition to programming, Computer Science and other IT stuff, I enjoy video games, skiing, history, and spending time with my beloved pets.
   
 </details>
   
