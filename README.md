@@ -12,9 +12,13 @@
   
   </summary> 
   
-I'm Witold Zawada. Self-taught software developer from Poland. I'm constantly expanding my skills in both backend and frontend development to understand both domains and create complete, secure, and user-friendly applications using technologies such as TypeScript, React, Go and PostgreSQL. In my free time I like to do so-called "selfhosting" and learn how do enterprise servers operate.
+I'm Witold Zawada. I'm a self-taught developer from Poland, consistently growing toward a fullstack role. 
 
-In addition to programming, Computer Science and other IT stuff, I enjoy video games, skiing, history, and spending time with my beloved pets.
+I build modern web applications with a focus on security, clean code and great user experience. I primarily work with Node.js, TypeScript and Go, using technologies such as Next.js, Hono and PostgreSQL.
+
+I'm interested in selfhosting, programming, exploring new technologies and tech news. Outside of IT, I enjoy skiing, history, karaoke, video games, cooking and spending time with animals.
+
+Currently doing my Bachelor's degree in Computer Science (Engineering) at Lublin University of Technology.
   
 </details>
   
