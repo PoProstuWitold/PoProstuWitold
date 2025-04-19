@@ -18,7 +18,7 @@ I build modern web applications with a focus on security, clean code and great u
 
 I'm interested in selfhosting, programming, exploring new technologies and tech news. Outside of IT, I enjoy skiing, history, karaoke, video games, cooking and spending time with animals.
 
-Currently doing my Bachelor's degree in Computer Science (Engineering) at Lublin University of Technology.
+Currently doing my Bachelor's degree in Computer Science (Engineering) at Lublin University of Technology (Politechnika Lubelska).
   
 </details>
   
