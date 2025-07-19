@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=PoProstuWitold&data=followers,repositories,stars,commits&theme=darkmode">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=1200&pause=300&color=29C977&center=true&vCenter=true&multiline=true&repeat=false&width=520&height=100&lines=Hello%2C+I'm+Witold+Zawada.;Junior+TypeScript+%26+Go+developer." alt="Typing SVG" /></a>
 </p>
 
