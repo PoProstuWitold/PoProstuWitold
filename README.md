@@ -6,7 +6,9 @@
 
 <details>
  <summary>
+   
   ## 💫 About me
+  
   </summary> 
   
 I'm Witold Zawada. I'm a self-taught developer from Poland, consistently growing toward a fullstack role. 
