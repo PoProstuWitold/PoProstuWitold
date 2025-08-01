@@ -2,9 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=1200&pause=300&color=29C977&center=true&vCenter=true&multiline=true&repeat=false&width=520&height=100&lines=Hello%2C+I'm+Witold+Zawada.;Junior+TypeScript+%26+Go+developer" alt="Typing SVG" /></a>
 </p>
 
-
 ---
-
 
 <details>
  <summary>
@@ -43,9 +41,6 @@ Currently doing my Bachelor's degree in Computer Science (Engineering) at **[Lub
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 
 ### Frameworks & Libraries
 ![🔥Hono](https://img.shields.io/badge/🔥Hono-%23404d99.svg?style=for-the-badge&logoColor=white)&nbsp;
