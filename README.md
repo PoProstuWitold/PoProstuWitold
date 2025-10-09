@@ -15,7 +15,7 @@ I'm Witold Zawada. I'm a self-taught developer from Poland, consistently growing
 
 I build modern web applications with a focus on security, clean code and great user experience. I primarily work with **Node.js**, **TypeScript** and **Go**, using technologies such as Next.js, Hono and PostgreSQL.
 
-I'm interested in selfhosting, programming, exploring new technologies and tech news. Outside of IT, I enjoy skiing, history, karaoke, video games, cooking and spending time with animals.
+I'm interested in selfhosting, programming (especially web development), exploring new technologies and tech news. Outside of IT, I enjoy skiing, history, karaoke, video games, cooking and spending time with animals.
 
 Currently doing my Bachelor's degree in Computer Science (Engineering) at **[Lublin University of Technology (Politechnika Lubelska)](https://pollub.pl/)**.
   
