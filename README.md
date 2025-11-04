@@ -57,10 +57,11 @@ Currently doing my Bachelor's degree in Computer Science (Engineering) at **[Lub
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 
 ### Workstation
+![EndeavourOS](https://img.shields.io/badge/EndeavourOS-7F7FFF?style=for-the-badge&logo=endeavouros&logoColor=white)&nbsp;
+![AlmaLinux](https://img.shields.io/badge/AlmaLinux-000000?style=for-the-badge&logo=AlmaLinux&logoColor=white)&nbsp;
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)&nbsp;
 ![WSL2](https://img.shields.io/badge/WSL2-FCC624?style=for-the-badge&logo=linux&logoColor=blue)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
-![Arch](https://img.shields.io/badge/Arch-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)&nbsp;
 
 ### Others
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;
