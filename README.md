@@ -1,36 +1,51 @@
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=1200&pause=300&color=29C977&center=true&vCenter=true&multiline=true&repeat=false&width=520&height=100&lines=Hello%2C+I'm+Witold+Zawada.;Junior+TypeScript+%26+Go+developer" alt="Typing SVG" /></a>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=250&section=header&text=Witold%20Zawada&fontSize=70&fontAlignY=40&desc=Fullstack%20Dev%20%7C%20TypeScript%20%7C%20Go&descAlignY=65&descSize=20&animation=fadeIn" width="100%" alt="Header" />
+</div>
 
----
+<table border="0" width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      
+## About Me
 
-<details>
- <summary>
-   
-  ## 💫 About me
-  
-  </summary> 
-  
 I'm Witold Zawada. I'm a self-taught developer from Poland, consistently growing toward a fullstack role. 
 
 I build modern web applications with a focus on security, clean code and great user experience. I primarily work with **Node.js**, **TypeScript** and **Go**, using technologies such as Next.js, Hono and PostgreSQL.
 
-I'm interested in selfhosting, programming (especially web development), exploring new technologies and tech news. Outside of IT, I enjoy skiing, history, karaoke, video games, cooking and spending time with animals.
+I'm interested in selfhosting, programming, exploring new technologies and tech news. Outside of IT, I enjoy skiing, history, karaoke, video games, cooking and spending time with animals.
 
-Currently doing my Bachelor's degree in Computer Science (Engineering) at **[Lublin University of Technology (Politechnika Lubelska)](https://pollub.pl/)**.
-  
-</details>
-  
+Currently doing my Bachelor's degree in Computer Science (Engineering) at **[Lublin University of Technology](https://pollub.pl/)**.
+
+<br/>
+
+<a href="https://github.com/PoProstuWitold">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/witoldzawada">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:witoldzawada.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Animation"/>
+
+<br/><br/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=23D18B&center=true&vCenter=true&width=350&lines=Writing+clean+code;Building+secure+apps;Selfhosting;Exploring+DevOps;Learning+everyday!;" alt="Typing SVG" />
+</a>
+    </td>
+  </tr>
+</table>
+
 ---
 
-</details>  
-
-<details>
- <summary>
-   
-   ## 💻 Technologies
-  
-  </summary> 
+## Technologies
 
 ### Languages & Runtimes
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
@@ -68,22 +83,9 @@ Currently doing my Bachelor's degree in Computer Science (Engineering) at **[Lub
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)&nbsp;
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
-  
-</details>
 
 ---
 
-<details>
- <summary>
-   
-  ## 📊 GitHub Stats:
-  
-  </summary> 
+## Github Activity
 
-![](https://github-readme-stats.vercel.app/api?username=PoProstuWitold&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=PoProstuWitold&theme=tokyonight&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PoProstuWitold&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-  
-</details>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PoProstuWitold&theme=tokyonight-duo&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
