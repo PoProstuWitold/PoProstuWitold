@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=250&section=header&text=Witold%20Zawada&fontSize=70&fontAlignY=40&desc=Fullstack%20Dev%20%7C%20TypeScript%20%7C%20Go&descAlignY=65&descSize=20&animation=fadeIn" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=250&section=header&text=Witold%20Zawada&fontSize=70&fontAlignY=40&desc=Software%20Engineer%20%7C%20TypeScript%20%7C%20Go&descAlignY=65&descSize=20&animation=fadeIn" width="100%" alt="Header" />
 </div>
 
 <table border="0" width="100%">
@@ -8,13 +8,13 @@
       
 ## About Me
 
-I'm Witold Zawada. I'm a self-taught developer from Poland, consistently growing toward a fullstack role. 
+I'm Witold Zawada, a self-taught software engineer from Poland, steadily growing into a full-stack role.
 
-I build modern web applications with a focus on security, clean code and great user experience. I primarily work with **Node.js**, **TypeScript** and **Go**, using technologies such as Next.js, Hono and PostgreSQL.
+I build modern web applications with a focus on security, clean, maintainable code and a great user experience. I mainly work with Node.js, TypeScript and Go, using technologies such as Next.js, Hono and PostgreSQL.
 
-I'm interested in selfhosting, programming, exploring new technologies and tech news. Outside of IT, I enjoy skiing, history, karaoke, video games, cooking and spending time with animals.
+I'm passionate about selfhosting, programming, exploring new technologies and staying up to date with tech news. Outside of IT, I enjoy skiing, history, karaoke, video games, cooking and spending time with animals.
 
-Currently doing my Bachelor's degree in Computer Science (Engineering) at **[Lublin University of Technology](https://pollub.pl/)**.
+I hold a **Bachelor of Engineering in Computer Science** from **[Lublin University of Technology (Politechnika Lubelska)](https://pollub.pl/)**.
 
 <br/>
 
