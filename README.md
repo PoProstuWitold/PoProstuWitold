@@ -14,7 +14,7 @@ I build modern web applications with a focus on security, clean, maintainable co
 
 I'm passionate about selfhosting, programming, exploring new technologies and staying up to date with tech news. Outside of IT, I enjoy skiing, history, karaoke, video games, cooking and spending time with animals.
 
-I hold a **Bachelor of Engineering in Computer Science** from **[Lublin University of Technology (Politechnika Lubelska)](https://pollub.pl/)**.
+I hold a **Bachelor of Engineering in Computer Science** from **[Lublin University of Technology (Politechnika Lubelska)](https://pollub.pl/)** and I am currently pursuing a **Master of Engineering in Computer Science** at the same university.
 
 <br/>
 
