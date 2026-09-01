@@ -4,34 +4,65 @@
 
 **Software Engineer · Selfhoster**
 
-I build backend systems and fullstack applications with **TypeScript** and **Go**, focusing on secure, maintainable architecture and **selfhosted infrastructure**.
+I build backend systems and fullstack applications with **TypeScript** and **Go**, with a strong interest in **security**, maintainable software, and **selfhosted infrastructure**.
 
 <p align="center">
-  <a href="https://github.com/PoProstuWitold" title="GitHub">
-    <img src="https://skillicons.dev/icons?i=github" width="42" height="42" alt="GitHub" />
+  <a href="https://witoldzawada.dev" title="Portfolio">
+    <img
+      src="https://witoldzawada.dev/favicon.ico"
+      width="44"
+      height="44"
+      alt="Portfolio"
+    />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/witoldzawada" title="LinkedIn">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="42" height="42" alt="LinkedIn" />
+    <img
+      src="https://skillicons.dev/icons?i=linkedin"
+      width="44"
+      height="44"
+      alt="LinkedIn"
+    />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:witoldzawada.dev@gmail.com" title="Email">
-    <img src="https://skillicons.dev/icons?i=gmail" width="42" height="42" alt="Email" />
+    <img
+      src="https://skillicons.dev/icons?i=gmail"
+      width="44"
+      height="44"
+      alt="Email"
+    />
   </a>
 </p>
+
 </div>
 
 ---
 
 ## About
 
-I'm a software engineer from Poland working primarily with TypeScript, Node.js, Go, React, Next.js, Hono and PostgreSQL.
+I'm a software engineer from Poland. I work primarily with **TypeScript, Node.js, Go, React, Next.js, Hono, and PostgreSQL**.
 
-I build backend systems and web applications with predictable behavior, clear boundaries and security integrated into the design.
+I build backend systems and web applications with an emphasis on **clear architecture, maintainability, and security**. I enjoy working across the stack, from APIs and application logic to deployment and infrastructure.
 
-I design and operate my own selfhosted infrastructure, giving me practical experience with Linux, Docker, networking, reverse proxies, DNS, monitoring and service administration.
+I design and operate my own **selfhosted infrastructure**, giving me practical experience with **Linux, Docker, networking, reverse proxies, DNS, monitoring, and service administration**.
 
-I hold a **Bachelor of Engineering in Computer Science** from [Lublin University of Technology](https://pollub.pl/) and I am currently pursuing a **Master of Engineering in Computer Science** at the same university.
+I hold a **Bachelor of Engineering in Computer Science** from [**Lublin University of Technology**](https://pollub.pl/) and I am currently pursuing a **Master of Engineering in Computer Science** at the same university.
+
+Outside of IT, I enjoy skiing, cooking, history, karaoke, video games, and spending time with animals.
+
+---
+
+## CORE
+
+**CORE** is a shorthand for the four areas that best describe how I approach software and infrastructure work: building systems, operating them, keeping them dependable, and making practical engineering decisions.
+
+| | Pillar | What it means |
+| :---: | --- | --- |
+| **C** | **Code** | Backend systems, APIs, fullstack applications, integrations, and developer tooling. |
+| **O** | **Operations** | Linux, containers, virtualization, networking, deployment, and selfhosted infrastructure. |
+| **R** | **Reliability** | Testing, observability, security, resilience, and predictable system behavior. |
+| **E** | **Engineering** | Architecture, maintainability, technical trade-offs, documentation, and pragmatic problem solving. |
 
 ---
 
@@ -76,14 +107,43 @@ I hold a **Bachelor of Engineering in Computer Science** from [Lublin University
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![AlmaLinux](https://img.shields.io/badge/AlmaLinux-000000?style=for-the-badge&logo=almalinux&logoColor=white)
-![EndeavourOS](https://img.shields.io/badge/EndeavourOS-7F7FFF?style=for-the-badge&logo=endeavouros&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
 ![WSL2](https://img.shields.io/badge/WSL2-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
+## Selected Work
+
+| Project | Description | Focus |
+| --- | --- | --- |
+| [**DoggoPaste**](https://github.com/PoProstuWitold/doggopaste) | Selfhostable platform combining durable, access-controlled code pastes with real-time collaborative editing. | `TypeScript` `Hono` `Next.js` `PostgreSQL` `Socket.IO` |
+| [**Homeserver**](https://github.com/PoProstuWitold/homeserver) | A living record of my selfhosted infrastructure and its evolution into a Proxmox VE homelab. | `Linux` `Proxmox VE` `Docker` `LXC` `Networking` |
+
+> [!TIP]
+> More projects, technical case studies and writing are available at [**witoldzawada.dev**](https://witoldzawada.dev).
+
+---
+
 ## Current Focus
 
-I'm currently focused on backend architecture, application security and selfhosted infrastructure, with an emphasis on systems that are straightforward to operate, evolve and maintain.
+- Backend and fullstack applications
+- Application security and secure software design
+- Selfhosted infrastructure, virtualization, networking and observability
+- Software supply chain security
+- Building software that is straightforward to deploy, operate and maintain
 
-My academic work explores software supply chain security and the effectiveness of security policies governing package installation.
+---
+
+<div align="center">
+
+<sub>
+  <a href="https://witoldzawada.dev">Portfolio</a>
+  ·
+  <a href="https://github.com/PoProstuWitold">GitHub</a>
+  ·
+  <a href="https://www.linkedin.com/in/witoldzawada">LinkedIn</a>
+  ·
+  <a href="mailto:witoldzawada.dev@gmail.com">Email</a>
+</sub>
+
+</div>
